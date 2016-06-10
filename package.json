@@ -1,0 +1,22 @@
+{
+  "name": "Ejemplo express",
+  "version": "1.0.0",
+  "description": "practica de express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "express",
+    "kevin",
+    "kitara"
+  ],
+  "author": "Kevin Mora",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "express": "^4.13.4",
+    "mysql": "^2.11.0",
+    "pug": "^2.0.0-beta2"
+  }
+}
