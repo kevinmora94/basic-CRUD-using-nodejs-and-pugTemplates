@@ -27,7 +27,7 @@ connection.connect(function(error){
 });
 
 app.get('/', function(req, res){
-	res.sendFile(__dirname + "/" + "index4.html");
+	res.sendFile(__dirname + "/" + "index.html");
 })
 app.get('/add', function(req, res){
 	res.sendFile(__dirname + "/views" + "/add.html");
